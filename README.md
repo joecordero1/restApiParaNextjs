@@ -1,5 +1,5 @@
 # Proyecto CRUD y funcionalidad con Node.js, Express.js y Next.js #
-Por: Joe Cordero
+Por: Joe Cordero y Ariel Raura
 
 Link deployments:
 - Frontend: [https://cliente-next-funcionalidad.vercel.app](https://cliente-next-funcionalidad.vercel.app/) (Cliente de next js)
