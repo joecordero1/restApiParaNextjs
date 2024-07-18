@@ -1,0 +1,31 @@
+{
+  "name": "restapijoe",
+  "version": "1.0.0",
+  "description": "rest crud",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joecordero1/restCRUD.git"
+  },
+  "author": "joecordero1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joecordero1/restCRUD/issues"
+  },
+  "homepage": "https://github.com/joecordero1/restCRUD#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "chartjs-adapter-date-fns": "^3.0.0",
+    "cors": "^2.8.5",
+    "date-fns": "^3.6.0",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
